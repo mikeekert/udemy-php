@@ -1,0 +1,12 @@
+[Fri Feb 09 12:52:22 2018] [notice] Digest: generating secret for digest authentication ...
+[Fri Feb 09 12:52:22 2018] [notice] Digest: done
+[Fri Feb 09 12:52:22 2018] [notice] FastCGI: process manager initialized (pid 61874)
+[Fri Feb 09 12:52:22 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.1 mod_ssl/2.2.34 OpenSSL/1.0.2j DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Fri Feb 09 12:52:24 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/docs-assets, referer: http://localhost:8888/MAMP/?language=English
+[Fri Feb 09 12:55:12 2018] [notice] caught SIGTERM, shutting down
+[Fri Feb 09 13:03:31 2018] [notice] Digest: generating secret for digest authentication ...
+[Fri Feb 09 13:03:31 2018] [notice] Digest: done
+[Fri Feb 09 13:03:31 2018] [notice] FastCGI: process manager initialized (pid 62524)
+[Fri Feb 09 13:03:31 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.1 mod_ssl/2.2.34 OpenSSL/1.0.2j DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Fri Feb 09 13:04:53 2018] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Fri Feb 09 13:04:55 2018] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/demo/.DS_Store, referer: http://localhost:8888/

@@ -1,0 +1,7 @@
+conf/
+Library/
+Licenses/
+bin/
+MAMP.app/
+.vscode/
+cgi-bin/
